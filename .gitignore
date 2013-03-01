@@ -48,3 +48,4 @@ site/config/config.php
 assets/images/_logo.png
 
 site/snippets/submenu.php
+site/snippets/analytics.php

@@ -1,6 +1,6 @@
 # Pathum
 
-Kirby is a carefully handwritten free kirby-theme.   
+Pathum is a carefully handwritten free kirby-theme.   
 
 Check the demo:
 <http://pathum.pxwrk.de/>
