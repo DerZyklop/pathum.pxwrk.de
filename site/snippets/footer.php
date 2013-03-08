@@ -4,7 +4,6 @@
         </div>
       </footer>
     </section>
-    <div id="panorama"></div>
   </div>
 
 </body>

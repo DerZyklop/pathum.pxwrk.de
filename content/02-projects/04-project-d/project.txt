@@ -7,16 +7,18 @@ Text:
 
 <form>
   <fieldset>
-    <legend>Ein Fieldset</legend>
+    <legend>A Fieldset</legend>
     Name: <input type="text"><br />
     Message: <br />
     <textarea></textarea><br />
   </fieldset>
 </form>
 
-Ein (link: http://www.pxwrk.de text: Link). Ein **fetter** und ein *kursiver* Text.
+A (link: http://www.pxwrk.de text: link), a **bold** and an *italic* text.
 
 ---
+
+### An Image
 
 <img src="http://placekitten.com/800/600" alt="Beispielbild" />
 
