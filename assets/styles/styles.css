@@ -425,12 +425,19 @@ p {
 }
 
 h1, h2, h3 {
-  text-align: center;
   font-weight: normal;
   color: #333333;
 }
 h1 a, h2 a, h3 a {
   color: #333333;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
 }
 
 hr {

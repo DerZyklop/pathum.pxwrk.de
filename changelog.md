@@ -1,5 +1,11 @@
 # Pathum Changelog
 
+## 1.1.1
+
+### Changes
+
+- just a very little css fix
+
 ## 1.1
 
 ### Changes
