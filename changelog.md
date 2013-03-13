@@ -1,14 +1,17 @@
 # Pathum Changelog
 
-<<<<<<< HEAD
-=======
+## 1.2.1
+
+### Changes
+
+- Just forgot the home.txt
+
 ## 1.2
 
 ### Changes
 
 - Added content and the logo to optimize install-process
 
->>>>>>> 1.2
 ## 1.1.1
 
 ### Changes

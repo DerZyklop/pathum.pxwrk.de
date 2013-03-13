@@ -23,8 +23,6 @@ site/config/config.php
 
 assets/images/_logo.png
 
-content/home/home.txt
-
 site/snippets/analytics.php
 
 site/snippets/submenu.php

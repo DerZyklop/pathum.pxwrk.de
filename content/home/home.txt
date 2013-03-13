@@ -1,0 +1,24 @@
+Title: Pathum - Free Kirby-Theme
+
+----
+
+Text: 
+
+Yay! If you are seeing this, the installation of Kirby worked :)
+Now just give the links in the menu a try to see if URL redirection works as well.
+
+Check out the docs: <http://getkirby.com/docs> if you run into any problems or send me an email: <bastian@getkirby.com>
+
+Have fun with Kirby!
+
+## About the Theme
+
+Pathum is a carefully handwritten, responsive Kirby-Theme by (twitter: DerZyklop). It's easy to install and completely free! :)
+
+(link: https://github.com/pxwrk/pathum.pxwrk.de/archive/master.zip text: Download Pathum class: button)
+
+(or check it on (link: https://github.com/pxwrk/pathum.pxwrk.de/ text: github))
+
+For install-introductions and more information check out the (link: http://pathum.pxwrk.de/documentation text: documentation). If you have any questions please feel free to ask me on (link: http://www.twitter.com/DerZyklop text: twitter) or send me an (email: mail@pxwrk.de text: email).
+
+Have fun with it!
