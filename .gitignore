@@ -1,33 +1,12 @@
 .DS_Store
 .htaccess
-assets/images/logo.png
 *.espressostorage
-
 
 assets/sass/_variables.sass
 assets/sass/styles.sass
 config.rb
 
-
-content/01-about-us/about-us.txt
-
-content/02-projects/01-project-a/project.txt
-
-content/02-projects/02-project-b/project.txt
-
-content/02-projects/03-project-c/project.txt
-
-content/02-projects/projects.txt
-
-content/03-contact/contact.txt
-
 content/04-documentation/documentation.txt
-
-content/error/error.txt
-
-content/site.txt
-
-content/home/home.txt
 
 index.php
 
@@ -39,13 +18,13 @@ site/cache/
 
 site/config/config.php
 
-.sass-cache/100b527c542b6ad76c032f7dc32d1f5e9c74941b/_background-clip.scssc
-
 *.scssc
-
 *.sassc
 
 assets/images/_logo.png
 
-site/snippets/submenu.php
+content/home/home.txt
+
 site/snippets/analytics.php
+
+site/snippets/submenu.php

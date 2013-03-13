@@ -1,0 +1,9 @@
+Title: Kirby
+----
+Author: Bastian Allgeier
+----
+Description: Kirby with the free Pathum-Theme
+----
+Keywords: kirby, kirbycms, php, filesystem, cms, theme, free
+----
+Copyright: © 2013 Theme by (link: http://www.pxwrk.de text: DerZyklop)

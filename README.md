@@ -8,7 +8,7 @@ Check the demo:
 
 ## Installation
 
-Install Kirby. Throw the Pathum-files on it and.. BAM! Thats it. 
+Buy and install Kirby. Throw the Pathum-files on it and.. BAM! Thats it. 
 
 For more details just take a look at the Documentation.
 
@@ -21,4 +21,5 @@ For more details just take a look at the Documentation.
 ## Support & Contact
 
 <http://pxwrk.de/>
+
 <a href="mailto:mail@pxwrk.de">mail@pxwrk.de</a>
