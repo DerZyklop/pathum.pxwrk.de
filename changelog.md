@@ -1,5 +1,11 @@
 # Pathum Changelog
 
+## 1.2.2
+
+### Changes
+
+- Just added the wrog home.txt... damned!
+
 ## 1.2.1
 
 ### Changes
