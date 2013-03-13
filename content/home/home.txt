@@ -7,3 +7,5 @@ Text: Say »hello« to your new website – based on the (link: http://getkirby.
 For install-introductions and more information check out the (link: http://pathum.pxwrk.de/documentation text: documentation). If you have any questions please feel free to ask me on (link: http://www.twitter.com/DerZyklop text: twitter) or send me an (email: mail@pxwrk.de text: email).
 
 Have fun!
+
+PS: I'd love to see the sites where it's used. So if you decide to take it, please let me know! thx!
