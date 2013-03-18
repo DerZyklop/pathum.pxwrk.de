@@ -2,7 +2,7 @@ Title: Kirby
 ----
 Author: Bastian Allgeier
 ----
-Description: Kirby with the free Pathum-Theme
+Description: Kirby with the free Pathum theme
 ----
 Keywords: kirby, kirbycms, php, filesystem, cms, theme, free
 ----

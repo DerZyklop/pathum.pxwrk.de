@@ -26,3 +26,5 @@ assets/images/_logo.png
 site/snippets/analytics.php
 
 site/snippets/submenu.php
+
+assets/js/jquery.js

@@ -501,6 +501,11 @@ header ul#nav li a, header ul#nav nav.submenu li a {
   text-decoration: none;
   background: rgba(255, 255, 255, 0.4);
 }
+@media screen and (max-width: 800px) {
+  header ul#nav li a, header ul#nav nav.submenu li a {
+    padding: 0.7em 20px;
+  }
+}
 header ul#nav li:hover a, header ul#nav nav.submenu li:hover a {
   background: white;
   color: #469fac;
@@ -554,10 +559,17 @@ section#main article h2 a {
 }
 section#main article .main-width-wrap,
 section#main footer .main-width-wrap {
-  padding: 40px;
   max-width: 600px;
-  min-width: 320px;
+  padding: 40px;
+  min-width: 240px;
   margin: 0 auto;
+}
+@media screen and (max-width: 800px) {
+  section#main article .main-width-wrap,
+  section#main footer .main-width-wrap {
+    padding: 20px;
+    min-width: 280px;
+  }
 }
 
 footer {

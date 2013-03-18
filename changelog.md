@@ -1,5 +1,12 @@
 # Pathum Changelog
 
+## 1.3
+
+### Changes
+
+- Some of my latest updates caused a little bug on devices smaller than ~350px. thx for the report to @syropian and @Crssp
+- I'll use #pxwrkpathum on Twitter for updates about this theme. Added a notice about that in the home.txt. 
+
 ## 1.2.2
 
 ### Changes
