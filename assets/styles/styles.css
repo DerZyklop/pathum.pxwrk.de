@@ -476,8 +476,21 @@ header {
 header h1 {
   padding: 0;
 }
-header h1 a img {
+header h1 a {
   padding: 40px;
+  display: block;
+  margin: 0 auto;
+  text-decoration: none;
+  color: #57b0bd;
+  -webkit-transition: 0.3s color;
+  -moz-transition: 0.3s color;
+  -o-transition: 0.3s color;
+  transition: 0.3s color;
+}
+header h1 a:hover {
+  color: #333333;
+}
+header h1 a img {
   display: block;
   max-width: 238px;
   margin: 0 auto;

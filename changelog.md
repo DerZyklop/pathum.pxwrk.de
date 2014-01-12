@@ -1,5 +1,11 @@
 # Pathum Changelog
 
+## 1.4
+
+### Changes
+
+- Tiny css-change, that makes it possible to use just text instead of a logo-image-file.
+
 ## 1.3
 
 ### Changes

@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
 
+  <link rel="shortcut icon" href="http://der-zyklop.de/assets/images/favicon.png" type="image/png">
+
   <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 
   <meta name="description" content="<?php echo html($site->description()) ?>" />
