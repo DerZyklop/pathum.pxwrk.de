@@ -4,7 +4,7 @@ Title: Pathum - Free Kirby Theme
 
 Text: Say »hello« to your new website – based on the (link: http://getkirby.com/ text: Kirby CMS) and the carefully handwritten, responsive Kirby Theme (link: http://pathum.pxwrk.de/ text: Pathum) by (twitter: DerZyklop).
 
-For install-introductions and more information check out the (link: http://pathum.pxwrk.de/documentation text: documentation). For updates check (link: https://twitter.com/search/realtime?q=%23pxwrkpathum text: #pxwrkpathum) on Twitter. If you have any questions please feel free to ask me on (link: http://www.twitter.com/DerZyklop text: twitter) or send me an (email: mail@pxwrk.de text: email).
+For install-introductions and more information check out the (link: http://pathum.pxwrk.de/documentation text: documentation). If you have any questions please feel free to ask me on (link: http://www.twitter.com/DerZyklop text: twitter) or send me an (email: mail@pxwrk.de text: email).
 
 Have fun!
 
