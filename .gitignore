@@ -1,5 +1,7 @@
 .DS_Store
 .htaccess
+.gitignore
+package.json
 *.espressostorage
 
 assets/sass/_variables.sass
@@ -28,3 +30,5 @@ site/snippets/analytics.php
 site/snippets/submenu.php
 
 assets/js/jquery.js
+
+gruntfile.coffee

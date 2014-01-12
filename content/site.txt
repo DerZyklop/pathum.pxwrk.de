@@ -6,4 +6,4 @@ Description: Kirby with the free Pathum theme
 ----
 Keywords: kirby, kirbycms, php, filesystem, cms, theme, free
 ----
-Copyright: © 2013 A (link: http://www.pxwrk.de text: PXWRK)-project by (link: http://www.twitter.com/DerZyklop text: DerZyklop)
+Copyright: © 2013 A (link: http://www.pxwrk.de text: pxwrk)-project by (twitter: DerZyklop)
